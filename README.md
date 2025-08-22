@@ -1,1 +1,1 @@
-# Hello this fine contains html and css projects
+# Hello this file contains html and css projects
