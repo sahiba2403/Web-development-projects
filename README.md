@@ -12,3 +12,4 @@ Welcome to my repository! This repository contains a collection of my front-end 
 ## 🛠️ Tech Stack Used
 * HTML5 (HyperText Markup Language)
 * CSS3 (Cascading Style Sheets)
+* Java Script
